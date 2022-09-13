@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108502605994",
+    "project_id": "sathi-club",
+    "storage_bucket": "sathi-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108502605994:android:ff964fc69d431462ca70d3",
+        "android_client_info": {
+          "package_name": "com.sathiclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108502605994-2d024k2tu6v7ik0hcf2j8ejo1aqodncu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV73ArWU_1hkF1-wvY11QeBcmjOCyHi0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108502605994-2d024k2tu6v7ik0hcf2j8ejo1aqodncu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
